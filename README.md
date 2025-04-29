@@ -92,7 +92,7 @@ To make the tool accessible:
 This allows non-technical users to easily interact with the system
 
 
-![Project Interface](images\output.PNG)
+![Project Interface](images/output.PNG)
 
 ## ✅ Summary
 
